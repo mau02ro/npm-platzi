@@ -12,5 +12,11 @@
     "package"
   ],
   "author": "Mauro Hernandez <mauroDeveloper@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "date-fns": "^2.14.0"
+  }
 }
