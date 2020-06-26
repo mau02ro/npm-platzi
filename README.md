@@ -89,11 +89,16 @@ npm list -g --depth 0
 
 ### Versionado
 
-#### 1.0.0
+### 1.0.0
 
 - El primer valor represneta un cambio mayor.
 - El segundo valor represneta un cambio menor.
 - El tercero son parches o bun fixes
 
-~:Indicamos que solo actualizaremos los parches y los bug fixes.
-Caret(^): Indicamos que solo podamos actulizar los cambios menores y los parches o bug fixes.
+#### ~:
+
+Indicamos que solo actualizaremos los parches y los bug fixes.
+
+#### Caret(^):
+
+Indicamos que solo podamos actulizar los cambios menores y los parches o bug fixes.
